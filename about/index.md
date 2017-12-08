@@ -4,15 +4,15 @@ title: Profil Saya
 comments: false
 ---
     
-<center><a href=""></a> Mahasiswa Sistem Informas</center>
+<center><a href=""></a> Mahasiswa Sistem Informasi</center>
 
 ## Sarah Rambe
-Nama    : Fitri Sarah Ariyani Rambe
+<p>Nama    : Fitri Sarah Ariyani Rambe
 TTL     : Air Batu, 13 Februari 1997
 Alamat  :Jl. Merpati Sakti Gg. Kenari No.3
 Email   :fitrisarah8@gmail.com
 No. HP  :+62852-6319-5809
-Blog    : fitrisarah.github.io
+Blog    : fitrisarah.github.io<p>
 
 
 ## Preview
