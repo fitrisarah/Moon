@@ -1,24 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Profil Saya
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href=""></a> Mahasiswa Sistem Informas</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Sarah Rambe
+Nama    : Fitri Sarah Ariyani Rambe
+TTL     : Air Batu, 13 Februari 1997
+Alamat  :Jl. Merpati Sakti Gg. Kenari No.3
+Email   :fitrisarah8@gmail.com
+No. HP  :+62852-6319-5809
+Blog    : fitrisarah.github.io
+
 
 ## Preview
 
